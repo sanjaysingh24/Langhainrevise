@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain_community
+langchain-openai
+langchain-groq
+langchain-xai
+python-dotenv
+langchain-google-genai
+ipykernel   
+langchain-tavily
+pydantic
+typing_extensions
+dataclasses
+langchain_core
+langchain_huggingface
+
+
